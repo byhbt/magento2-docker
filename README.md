@@ -18,7 +18,7 @@ put to the **html** directory
 
 Rename the **.env.example** to **.env**, review the config in **.env** and change if you need. 
 
-Step 2: Up the environment
+### Step 2: Up the environment
 
 ```
 docker-compose up
